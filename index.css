@@ -12,13 +12,4 @@ form {
   padding: 24px 0;
   text-align: center;
 }
-input {
-  padding:8px;
-  border: none;
-}
-button {
-  padding:3px;
-  background-color: green;
-  color: #fff;
-  border: none;
-}
+
