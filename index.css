@@ -3,7 +3,12 @@
   margin: 0;
   box-sizing: border-box;
 }
-.container {
+header {
   display: flex;
   justify-content: center;
+  margin-top: 40px;
+}
+form {
+  padding: 24px 0;
+  text-align: center;
 }
