@@ -18,5 +18,6 @@ input {
 button {
   padding:10px;
   background-color: green;
-  color: #000;
+  color: #fff;
+  border: none;
 }
