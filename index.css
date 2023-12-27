@@ -14,6 +14,7 @@ form {
 }
 input {
   padding:10px;
+  border: none;
 }
 button {
   padding:10px;
