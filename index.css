@@ -15,6 +15,7 @@ form {
 input {
   padding:10px;
   border: none;
+  margin-left:2px;
 }
 button {
   padding:11px;
