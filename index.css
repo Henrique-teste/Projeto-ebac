@@ -12,3 +12,9 @@ form {
   padding: 24px 0;
   text-align: center;
 }
+input {
+  padding:15px;
+}
+button {
+  padding:15px;
+}
