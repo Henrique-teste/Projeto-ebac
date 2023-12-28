@@ -7,8 +7,8 @@
     display: flex;
     justify-content: center;
     margin-top: 40px;
-  }
-  form {
+}
+form {
     padding: 24px 0;
     text-align: center;
   }
@@ -17,11 +17,15 @@
     background-color: green;
     color: #fff;
     border: none;
-  }
-  input {
+}
+input {
     padding: 8px;
-  }
-  section li {
+}
+section li {
     text-align: center;
     cursor: pointer;
-  }
+    
+}
+section li:hover{
+    text-decoration: line-through
+}
