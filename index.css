@@ -1,30 +1,27 @@
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-header {
-  display: flex;
-  justify-content: center;
-  margin-top: 40px;
-}
-form {
-  padding: 24px 0;
-  text-align: center;
-}
-button {
-  padding: 8px;
-  background-color: green;
-  color: #fff;
-  border: none;
-}
-input {
-  padding: 8px;
-}
-section ul {
-  
-}
-section li {
-  
-}
-
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  header {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  form {
+    padding: 24px 0;
+    text-align: center;
+  }
+  button {
+    padding: 8px;
+    background-color: green;
+    color: #fff;
+    border: none;
+  }
+  input {
+    padding: 8px;
+  }
+  section li {
+    text-align: center;
+    cursor: pointer;
+  }
