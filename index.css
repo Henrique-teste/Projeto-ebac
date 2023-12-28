@@ -24,9 +24,8 @@ input {
 section li {
     text-align: center;
     cursor: pointer;
-    transform: translate;
 }
-section:hover li a {
+section:hover{
     text-decoration: line-through
-    transform: translate;
+    
 }
