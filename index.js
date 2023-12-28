@@ -10,4 +10,9 @@ $(`<div class="efeito-riscar">
 </div>`).appendTo(tarefaNova);
 $(tarefaNova).appendTo('ul');
 $('#nova-tarefa').val('')
+$('ul li').click(function(){
+    $().toggleClass('marcado');
+})
+
+
 })
