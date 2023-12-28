@@ -1,9 +1,6 @@
 $(document).ready(function(){
 
 })
-$('ul li a').click(function(){
-    
-})
 $('form').on('submit',function(e){
     e.preventDefault();
     const clickTarefa = $('#nova-tarefa').val();
