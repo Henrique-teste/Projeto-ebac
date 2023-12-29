@@ -24,7 +24,9 @@ input {
 section li {
     text-align: center;
     cursor: pointer;
+    
 }
-section:hover{
-    text-decoration: line-through
+.checked{
+  text-decoration: line-through;
 }
+
