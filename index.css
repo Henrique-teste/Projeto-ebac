@@ -26,7 +26,7 @@ section li {
     cursor: pointer;
     
 }
-.checked: hover label {
+label: hover .checked: {
   text-decoration: line-through;
 }
 
